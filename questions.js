@@ -1,5 +1,5 @@
-,
-{
+const QUESTIONS = [
+  {
   id: "go-001",
   fonte: "FEBRASGO",
   capitulo: "Pré-natal",
@@ -82,3 +82,4 @@
   frase_ouro:
     "Na cesariana, tratar rapidamente a hipotensão materna protege simultaneamente mãe e feto."
 }
+  ];
