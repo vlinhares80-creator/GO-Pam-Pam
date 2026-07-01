@@ -1,4 +1,4 @@
-const CACHE_NAME = "Go-Pam-Pam-v01";
+const CACHE_NAME = "Go-Pam-Pam-v01.1";
 
 const FILES_TO_CACHE = [
   "./",
